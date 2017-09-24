@@ -1,0 +1,9 @@
+C:\Users\h2phamth\OneDrive\Documents\Wok\Raspberry\SourceCode\RaspberryServo\RaspberryCar\bin\Debug\RaspberryCar.exe.config
+C:\Users\h2phamth\OneDrive\Documents\Wok\Raspberry\SourceCode\RaspberryServo\RaspberryCar\bin\Debug\RaspberryCar.exe
+C:\Users\h2phamth\OneDrive\Documents\Wok\Raspberry\SourceCode\RaspberryServo\RaspberryCar\bin\Debug\RaspberryCar.pdb
+C:\Users\h2phamth\OneDrive\Documents\Wok\Raspberry\SourceCode\RaspberryServo\RaspberryCar\obj\Debug\RaspberryServo.csprojResolveAssemblyReference.cache
+C:\Users\h2phamth\OneDrive\Documents\Wok\Raspberry\SourceCode\RaspberryServo\RaspberryCar\obj\Debug\RaspberryCar.MainForm.resources
+C:\Users\h2phamth\OneDrive\Documents\Wok\Raspberry\SourceCode\RaspberryServo\RaspberryCar\obj\Debug\RaspberryCar.Properties.Resources.resources
+C:\Users\h2phamth\OneDrive\Documents\Wok\Raspberry\SourceCode\RaspberryServo\RaspberryCar\obj\Debug\RaspberryServo.csproj.GenerateResource.Cache
+C:\Users\h2phamth\OneDrive\Documents\Wok\Raspberry\SourceCode\RaspberryServo\RaspberryCar\obj\Debug\RaspberryCar.exe
+C:\Users\h2phamth\OneDrive\Documents\Wok\Raspberry\SourceCode\RaspberryServo\RaspberryCar\obj\Debug\RaspberryCar.pdb
